@@ -10,6 +10,8 @@ Welcome to my GitHub profile, I'm Enzo Tassini!
 
 - 📝 Currently learning C and Java
 
+- 📧 Contact me: <a href="mailto:enzo180842@gmail.com"><img src="https://img.shields.io/badge/-enzo180842@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+
 <div align="center">
   <a href="https://github.com/Enzo-Tssn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Enzo-Tssn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
