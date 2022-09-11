@@ -1,8 +1,6 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo-Tssn&layout=compact&theme=midnight-purple" align="right">
-
 ### Hello there!!
 
-Welcome to my GitHub profile, I'm Enzo Tassini!
+Welcome to my GitHub profile, I'm Enzo Tassini! :octocat:
 
 ##
 
@@ -16,7 +14,7 @@ Welcome to my GitHub profile, I'm Enzo Tassini!
 
 - 📧 Contact me: enzo180842@gmail.com
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo-Tssn&layout=compact&theme=midnight-purple" align="right">
 
-
-
+##
 
