@@ -1,6 +1,6 @@
 ### Hello there!!
 
-Welcome to my GitHub profile, I'm Enzo Tassini! :space_invaders:
+Welcome to my GitHub profile, I'm Enzo Tassini! :space_invader:
 
 ##
 
