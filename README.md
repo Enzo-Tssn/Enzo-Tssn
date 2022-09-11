@@ -1,11 +1,10 @@
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo-Tssn&layout=compact&theme=midnight-purple" align="right">
+
 ### Hello there!!
 
 Welcome to my GitHub profile, I'm Enzo Tassini!
 
-<div align="right">
-  <a href="https://github.com/Enzo-Tssn">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo-Tssn&layout=compact&langs_count=7&theme=dark"/>
-</div>
+##
 
 ### About me
 
