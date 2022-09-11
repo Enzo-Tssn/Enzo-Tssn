@@ -3,6 +3,7 @@
 Welcome to my GitHub profile, I'm Enzo Tassini! :space_invader:
 
 ##
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo-Tssn&layout=compact&theme=midnight-purple" align="right">
 
 ### About me
 
@@ -16,5 +17,4 @@ Welcome to my GitHub profile, I'm Enzo Tassini! :space_invader:
 
 ##
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo-Tssn&layout=compact&theme=midnight-purple" align="center">
 
