@@ -16,6 +16,6 @@ Welcome to my GitHub profile, I'm Enzo Tassini! :space_invader:
 
 - 📧 Contact me: enzo180842@gmail.com
 
-
 ##
 
+![Snake animation](https://github.com/Enzo-Tssn/Enzo-Tssn/blob/output/github-contribution-grid-snake.svg)
