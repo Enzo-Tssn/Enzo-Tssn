@@ -12,7 +12,7 @@ Welcome to my GitHub profile, I'm Enzo Tassini! :space_invader:
 
 - 🌎 I speak Portuguese and English
 
-- 📝 Currently learning C and Java
+- 📝 Currently learning C, Java and GML
 
 - 📧 Contact me: enzo180842@gmail.com
 
