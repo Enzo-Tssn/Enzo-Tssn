@@ -8,9 +8,9 @@ Welcome to my GitHub profile, I'm Enzo Tassini! :space_invader:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo-Tssn&layout=compact&theme=midnight-purple" align="right"> 
 
-- 👨‍🎓 I'm a Computer Engineering student at [Universidade de São Paulo](https://www5.usp.br/)
+- 👨‍🎓 Computer Engineering student at [Universidade de São Paulo](https://www5.usp.br/)
 
-- 🌎 I speak Portuguese and English
+- 🌎 Portuguese/English
 
 - 📝 Currently learning C, Java and GML
 
