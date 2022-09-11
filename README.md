@@ -19,4 +19,4 @@ Welcome to my GitHub profile, I'm Enzo Tassini! :space_invader:
 
 ##
 
-
+<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://steamcommunity.com/app/413150/images/?l=portuguese&p=1&browsefilter=trendyear">
