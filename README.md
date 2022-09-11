@@ -19,4 +19,4 @@ Welcome to my GitHub profile, I'm Enzo Tassini! :space_invader:
 
 ##
 
-![AltText](https://giphy.com/gifs/xThuWu82QD3pj4wvEQ.gif)
+![AltText](https://giphy.com/gifs/xThuWu82QD3pj4wvEQ)
