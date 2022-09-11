@@ -18,4 +18,4 @@ Welcome to my GitHub profile, I'm Enzo Tassini! :space_invader:
 
 ##
 
-![Snake animation](https://github.com/rafaballerini/Enzo-Tssn/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Enzo-Tssn/Enzo-Tssn/blob/output/github-contribution-grid-snake.svg)
